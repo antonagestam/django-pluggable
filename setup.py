@@ -14,7 +14,7 @@ setup(
     url='https://github.com/antonagestam/django-pluggable/',
     license='The MIT License (MIT)',
     install_requires=['Django>=1.7.5', ],
-    scripts=['runtests'],
+    scripts=['runtests.py'],
     classifiers=['Programming Language :: Python :: 2.7',
                  'Programming Language :: Python :: 3']
 
